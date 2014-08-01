@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Set Tilde to Alt+1</name>
+        <identifier>private.set_tilde_to_alt_1</identifier>
+        <autogen>
+        __KeyToKey__
+        KeyCode::KEY_1, ModifierFlag::OPTION_L,
+        KeyCode::BACKQUOTE, ModifierFlag::SHIFT_L,
+      </autogen>
+    </item>
+
+</root>
+
